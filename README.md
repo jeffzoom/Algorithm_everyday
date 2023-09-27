@@ -1,4 +1,3 @@
 # Algorithm_everyday
-每天一道算法题
 
-从2023年6月4日开始了，每天写的要学会记录，之前总是断断续续的记录，在掘金还有csdn上面，坚持果然很重要
+Those who write every day must learn to record. I have always been intermittent records before. On the Nuggets and CSDN, persistence is really important
